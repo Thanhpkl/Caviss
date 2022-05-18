@@ -139,11 +139,11 @@ body{
     position: relative;
   }
   .card0 {
-    background: url("https://images.unsplash.com/photo-1556830609-6eb291676a5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGljfGVufDB8fDB8fA%3D%3D&w=1000&q=80") center center no-repeat;
+    background: url("https://images.unsplash.com/photo-1525673812761-4e0d45adc0cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmljZSUyMHBob3RvfGVufDB8fDB8fA%3D%3D&w=1000&q=80") center center no-repeat;
     background-size: 300px;
   }
   .card0:hover {
-    background: url("https://images.unsplash.com/photo-1556830609-6eb291676a5d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGljfGVufDB8fDB8fA%3D%3D&w=1000&q=80") center center no-repeat;
+    background: url("https://images.unsplash.com/photo-1525673812761-4e0d45adc0cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bmljZSUyMHBob3RvfGVufDB8fDB8fA%3D%3D&w=1000&q=80") center center no-repeat;
     background-size: 600px;
   }
   .card0:hover h2 {
